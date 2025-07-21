@@ -6,3 +6,6 @@ int main()
 	scanf("%d",&n);
 	if(n%2==0);
 {
+	printf("number is even")"
+}
+
